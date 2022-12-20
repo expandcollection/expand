@@ -1,5 +1,6 @@
 html {
     font-family: 'Press Start 2P', cursive;
+    font-size: 5vw;
     box-sizing: border-box;
     z-index: 2;
 }
@@ -12,10 +13,11 @@ h1 {
 p {
     margin-top: 30px;
     padding-top: 20px;
-    font-size: smaller;
+    font-size: 2vw;
 }
 
 footer {
+    position: fixed;
     width: 100%;
     margin-top: 800px;
     padding: 20px 30px;
