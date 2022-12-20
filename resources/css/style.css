@@ -15,17 +15,18 @@ p {
 }
 
 .btn-secondary {
+    align-self: center;
     width: 100%;
-    margin-top: 10px;
-    padding: 10px;
+    margin-top: 20px;
+    padding: 20px;
     font-size: smaller;
 }
 
 footer {
     width: 100%;
-    margin-top: 200px;
+    margin-top: 300px;
     padding: 10px;
-    background-color: lightgrey;
+    background-color: rgb(103, 112, 118);
     font-size: smaller;
     color: white;
 }
