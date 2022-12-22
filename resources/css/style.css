@@ -22,9 +22,22 @@ p {
     font-size: smaller;
 }
 
+.description {
+    margin-top: 130px;
+}
+
 footer {
     width: 100%;
     margin-top: 330px;
+    padding: 10px;
+    background-color: rgb(107, 118, 126);
+    font-size: smaller;
+    color: white;
+}
+
+.main-footer {
+    width: 100%;
+    margin-top: 100px;
     padding: 10px;
     background-color: rgb(107, 118, 126);
     font-size: smaller;
