@@ -4,6 +4,20 @@ html {
     z-index: 2;
 }
 
+header {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: rgb(107, 118, 126);
+    font-size: smaller;
+    color: white;
+    text-align: right;
+}
+
+a {
+    color: white;
+}
+
 h1 {
     width: 50%;
     display: inline;
